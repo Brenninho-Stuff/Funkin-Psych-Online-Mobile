@@ -1,5 +1,6 @@
 {
     "haxe.displayServer": {
         "_arguments": ["-v"]
-    }
+    },
+    "xml.downloadExternalResources.enabled": true
 }
